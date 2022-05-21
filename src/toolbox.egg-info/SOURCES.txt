@@ -1,9 +1,0 @@
-README.md
-pyproject.toml
-setup.py
-src/toolbox/__init__.py
-src/toolbox/functions.py
-src/toolbox.egg-info/PKG-INFO
-src/toolbox.egg-info/SOURCES.txt
-src/toolbox.egg-info/dependency_links.txt
-src/toolbox.egg-info/top_level.txt
