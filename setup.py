@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name='toolbox',
-    version='0.1',
+    version='dev',
     author='IDO Paul',
     author_email='paulido92mail.com',
     description='toolbox is a package for machine learning. it is used to generate randoms problems of regression and classification',
