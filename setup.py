@@ -11,7 +11,7 @@ setuptools.setup(
     description='toolbox is a package for machine learning. it is used to generate randoms problems of regression and classification',
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url='https://github.com/paulido/toolbox',
+    package_dir='https://github.com/paulido/toolbox',
     license='MIT',
     packages=['toolbox'],
     install_requires=['requests'],
